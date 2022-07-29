@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorkScheduler</string>
+    <string name="work_title">Work_Title</string>
+    <string name="time">Time_Required (in hours)</string>
+    <string name="add_button">Add_Task</string>
+    <string name="show">Show_Tasks</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="days">Days_Left</string>
+    <string name="priority">Priority</string>
+    <string name="welcome">Welcome</string>
+    <string name="button">GET STARTED</string>
+    <string name="add_details">ADD DETAILS OF YOUR TASKS</string>
+    <string name="welcome_quotation">Unload your stress in just one click!!</string>
+    <string name="save">Save</string>
+</resources>
