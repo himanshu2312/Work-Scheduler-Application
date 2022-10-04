@@ -8,7 +8,7 @@ https://github.com/himanshu2312/Work-Scheduler-Application/tree/main/src
 or
 this repository -> src 
 
-step  2 : Download this src folderon your Pc/Laptop
+step  2 : Download this src folder on your Pc/Laptop
 
 Step  3 : Open Android Studio and creat a new Project Named WorkScheduler in Java language 
 
