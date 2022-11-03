@@ -4,17 +4,15 @@ This is an Android Application made by me as a Minor Project using Android Studi
 # Steps to run this project in your PC/Laptop :
 
 Step 1 : Go to the 
-https://github.com/himanshu2312/Work-Scheduler-Application/tree/main/src
+https://github.com/himanshu2312/Work-Scheduler-Application
 or
-this repository -> src 
+this repository
 
-step  2 : Download this src folder on your Pc/Laptop
+step  2 : Download this zip folder on your Pc/Laptop and extract all files.
 
-Step  3 : Open Android Studio and creat a new Project Named WorkScheduler in Java language 
+Step  3 : Open Android Studio and open the Project Folder Named WorkScheduler in Java language 
 
-Steps 4 : Go to your projects src folder and replace it by downloaded src folder and rerun your project .
-
-Step  5 : All set , Now you can do anything you want with the application .
+Step  4 : All set , Now you can do anything you want with the application .
 
 # Steps to Install this Application in your Android mobile/phone/tab :
 
